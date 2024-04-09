@@ -17,3 +17,10 @@ Our CNN model works well in this project due to the way that data is represented
 numpy, tensorflow, keras, pillow
 
 For eventual gui app: tkinter, pywin32
+
+## Example end output for 75 epochs 
+The model has successfully trained
+Test loss: 0.4078112840652466
+Test accuracy: 0.9025999903678894
+
+(90.2599%)!
