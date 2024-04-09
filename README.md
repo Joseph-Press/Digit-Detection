@@ -1,4 +1,4 @@
-#Digit Recognizer
+# Digit Recognizer
 Digit recognizer, training a model on the MNIST dataset
 
 Developing a GUI App for users to handwrite digits and recognize the output (currently averages around 50% accuracy, so still in progress)
